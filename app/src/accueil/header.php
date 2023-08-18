@@ -19,9 +19,9 @@
                     <ul class="flex flex-col mb-40 text-xl gap-2">
                     <li><a href="#" class="flex items-center gap-2 sm:hover:px-6 sm:hover:bg-blue-600 sm:hover:py-2 sm:hover:rounded mx-12 sm:mx-0 sm:px-10 h-10 sm:w-[300px]"><i class="fa-solid fa-house"></i><span class="hidden sm:block">Accueil</span></a></li>
                     <li class="relative group">
-                        <a href="#" id="meteo" class="flex items-center gap-2 sm:hover:px-6 sm:hover:bg-blue-600 sm:hover:py-2 sm:hover:rounded mx-12 sm:mx-0 sm:px-10 h-10 sm:w-[300px]"><i id="icon-meteo" class="fa-solid fa-sun h-5"></i><span class="mr-28 hidden sm:block">Météo</span><span class="hidden sm:block"><i id="icon" class="fa-solid fa-chevron-down fa-rotate-270"></i></span></a>
+                        <button id="meteo" class="flex items-center gap-2 sm:hover:px-6 sm:hover:bg-blue-600 sm:hover:py-2 sm:hover:rounded mx-12 sm:mx-0 sm:px-10 h-10 sm:w-[300px]"><i id="icon-meteo" class="fa-solid fa-sun h-5"></i><span class="mr-28 hidden sm:block">Météo</span></button>
                         <ul id="sousMenu" class="opacity-0 invisible space-y-2 transition transition-all ease-in-out h-0 items-center flex flex-col">
-                            <li><a href="#" class="flex gap-2 items-center sm:hover:bg-blue-600 sm:px-8 py-2 mx-1 sm:mx-12 hover:rounded"><i class="fa-solid fa-mobile-screen-button"></i><span class="hidden sm:block">iPhone</span></a></li>
+                            <li><a href="#" class="flex gap-2 items-center sm:hover:bg-blue-600 sm:px-8 py-2 mx-1 sm:mx-12 hover:rounded "><i class="fa-solid fa-mobile-screen-button"></i><span class="hidden sm:block">iPhone</span></a></li>
                             <li><a href="#" class="flex gap-2 items-center sm:hover:bg-blue-600 sm:px-8 py-2 mx-1 sm:mx-12 hover:rounded"><i class="fa-solid fa-cloud"></i><span class="hidden sm:block">France</span></a></li>
                         </ul>
                     </li>

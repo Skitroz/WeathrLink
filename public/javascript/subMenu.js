@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', function() {
         sousMenu.classList.toggle('invisible');
         sousMenu.classList.toggle('sm:h-[88px]');
         sousMenu.classList.toggle('h-[68px]');
-        icon.classList.toggle('sm:fa-rotate-270');
         iconMeteo.classList.toggle('fa-chevron-down');
     });
 });
