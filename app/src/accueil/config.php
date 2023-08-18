@@ -1,0 +1,5 @@
+<?php
+
+$titlePage = "Accueil - WeathrLink";
+
+?>
