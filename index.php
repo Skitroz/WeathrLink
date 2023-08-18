@@ -12,5 +12,7 @@
 </head>
 <body>
 <?php include ('./app/src/accueil/header.php'); ?>
+<?php include ('./app/src/accueil/main.php'); ?>
+<script src="public/javascript/main.js"></script>
 </body>
 </html>

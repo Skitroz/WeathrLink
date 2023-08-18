@@ -28,9 +28,9 @@
                     <li><a href="#" class="flex items-center gap-2 sm:hover:px-6 sm:hover:bg-blue-600 sm:hover:py-2 sm:hover:rounded mx-12 sm:mx-0 sm:px-10 h-10 sm:w-[300px]"><i class="fa-solid fa-address-book"></i><span class="hidden sm:block">Contact</span></a></li>
                 </ul>
                 <ul class="flex flex-col sm:flex-row gap-4 text-2xl">
-                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                    <li><a href="#"><i class="fa-brands fa-github"></i></a></li>
+                    <li><a href="https://www.instagram.com/skitroz/" target="_blank" rel="norefferer" title="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/matheobtl/" target="_blank" rel="norefferer" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a></li>
+                    <li><a href="https://github.com/Skitroz" target="_blank" rel="norefferer" title="GitHub"><i class="fa-brands fa-github"></i></a></li>
                 </ul>
             </nav>
         </menu>
